@@ -8,7 +8,7 @@
 ##### 使用方法：
 ###### 1.引入JS文件
 ```
-<script src="lib/des.min.js"></script>
+<script src="des.min.js"></script>
 <script>
     //密钥
     var key = "custom key";
